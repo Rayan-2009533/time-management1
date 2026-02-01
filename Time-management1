@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Time Management for Students</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f4f8;
+      margin: 40px;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #2c5aa0;
+    }
+    section {
+      background: white;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Importance of Time Management for Students</h1>
+
+<section>
+  <h2>Introduction</h2>
+  <p>
+    Time management is an important skill for students. It helps them organize their time and complete tasks effectively.
+  </p>
+</section>
+
+<section>
+  <h2>Why Time Management Is Important</h2>
+  <p>
+    Managing time well allows students to reduce stress, improve academic performance, and balance school with daily life.
+  </p>
+</section>
+
+<section>
+  <h2>Tips for Better Time Management</h2>
+  <ul>
+    <li>Create a daily study schedule</li>
+    <li>Set clear goals and priorities</li>
+    <li>Avoid procrastination</li>
+    <li>Take short breaks</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Conclusion</h2>
+  <p>
+    In conclusion, time management helps students become more successful, confident, and responsible.
+  </p>
+</section>
+
+</body>
+</html>
